@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 
+header { display: inline; }
+
 body {
 background-color: black;
 }
