@@ -6,6 +6,11 @@ body {
 background-color: black;
 }
 
+a {
+color: white;
+text-deciration: none;
+}
+
 h1 {
 color: white;
 }
