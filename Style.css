@@ -60,3 +60,7 @@ color: white;
 .nav {
   
   // Toggle Button
+
+  .buy {
+   height: 30px; 
+  }
